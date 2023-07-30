@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Array Programs"/>
+	<classpathentry kind="src" path="Java-Practice-Programs-main/Array Programs"/>
+	<classpathentry kind="src" path="Java-Practice-Programs-main/Pattern Programs"/>
+	<classpathentry kind="src" path="Pattern Programs"/>
+	<classpathentry kind="src" path="Strings"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
